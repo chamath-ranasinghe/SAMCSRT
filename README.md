@@ -2,6 +2,9 @@
 
 A lightweight football player tracking system that combines the Segment Anything Model (SAM) with classical CSRT trackers, enhanced by jersey color-based appearance models for improved occlusion recovery and player re-identification.
 
+Update: 
+09 December, 2025 - Research Paper published in arXiv (https://arxiv.org/abs/2512.08467)
+
 ## Overview
 
 This project addresses the challenge of tracking football players in crowded scenarios with frequent occlusions. By leveraging SAM's precise segmentation for initialization and incorporating appearance-based re-identification using jersey colors, the system maintains player identities even after temporary occlusions.
